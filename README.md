@@ -20,6 +20,7 @@ Here are some ideas to get you started:
          - Wazuh
       - Running and learning Linux/GNU.
       
+      
 - 🌱 I’m currently learning at Tech Elevator and always learning more.
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -28,11 +29,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about
      - Java
        - Spring
-       - J2EE
-     - C++
+       - J2EE (Just the basics)
+     - C++ (Just the basics)
      - Javascript
      - SQL
-     - Linux/GNU
+     - Linux/GNU 
      - and always learning more...
 - 📫 How to reach me: richard@webhoran.com
 - 😄 Pronouns: he/him
