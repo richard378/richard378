@@ -32,6 +32,7 @@ Here are some ideas to get you started:
        - J2EE (Just the basics)
      - C++ (Just the basics)
      - Javascript
+       - Vue
      - SQL
      - Linux/GNU 
      - and always learning more...
