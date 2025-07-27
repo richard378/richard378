@@ -19,7 +19,7 @@ Here are some ideas to get you started:
          - OnlyOffice Workspace
          - Wazuh
       - Running and learning Linux/GNU.
-      
+    - Wroking on openrecall linux version https://www.github.com/richard378/openrecall
       
 - 🌱 I’m currently learning at Tech Elevator and always learning more.
 <!--
