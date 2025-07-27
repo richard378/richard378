@@ -9,17 +9,17 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... 
     - being a full stack developer
-      - My home servers including:
-         - Nextcloud	  https://www.nextcloud.com
-         - Firefly-iii https://www.firefly.ai/
+    - My home servers including:
+         - Nextcloud ```https://www.nextcloud.com```
+         - Firefly-iii ```https://www.firefly.ai/```
+         - OnlyOffice Workspace  ```https://www.onlyoffice.com```
+         - Wazuh ```https://www.wazuh.com```
       - Previous servers running:
          - Hesk
          - iRedMail
          - mailinabox
-         - OnlyOffice Workspace
-         - Wazuh
-      - Running and learning Linux/GNU.
-    - Wroking on openrecall linux version https://www.github.com/richard378/openrecall
+    - Running and learning Linux/GNU.
+    - Wroking on openrecall linux version ```https://www.github.com/richard378/openrecall```
       
 - 🌱 I’m currently learning at Tech Elevator and always learning more.
 <!--
