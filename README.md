@@ -36,7 +36,7 @@ Here are some ideas to get you started:
      - SQL
      - Linux/GNU 
      - and always learning more...
-- 📫 How to reach me: richard@webhoran.com
+- 📫 
 - 😄 Pronouns: he/him
 <!--- ⚡ Fun fact: ...
 -->
